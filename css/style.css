@@ -1,0 +1,123 @@
+﻿html {
+
+}
+
+body 
+{
+    background-image: url("001.jpeg");
+}
+
+
+.congrat {
+    margin: 0 auto;
+    width: 40%;
+    background-color: lightgrey;
+    padding: 2%;
+    height: 120px;
+    border: 1px dotted black;
+    letter-spacing: 1.2px;
+}
+
+.onez {
+   width: 30%;
+   border-color: black;
+   padding: 1%;
+   height: 200px;
+   opacity: .5;
+
+}
+
+.twoz {
+    width: 30%;
+    border-color: black;
+    padding: 1%;
+    height: 200px;
+    opacity: .5;
+}
+
+.threez {
+    width: 30%;
+    border-color: black;
+    padding: 1%;
+    height: 200px;
+    opacity: .5;
+}
+
+.boxone
+{
+    width: 90%;
+    margin:  0 auto ;
+    
+}
+
+.new {
+    text-align: center;
+}
+
+.box {
+display: block;
+float: left;
+}
+
+p.congrats {
+    font-size: 32px;
+    text-align: center;
+    color: black;
+    font-family: 'Courier New';
+}
+
+.button2 {
+    width: 90%;
+    height: 45px;
+    color: black;
+    background-color: lightgreen;
+    font-weight: 900;
+    border: none;
+    font-family: 'Courier New';
+    font-size: 33px;
+    cursor: pointer;
+
+}
+
+p.goodbye {
+    display: none;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Courier New';
+    text-shadow: 2px 2px white;
+   
+}
+
+.one {
+    background-color: #6A6A89;
+    width: 30%;
+    border-color: black;
+    padding: 1%;
+    height: 200px;
+    opacity: .8;
+}
+
+.two {
+    background-color: #CD5807;
+    width: 30%;
+    border-color: black;
+    padding: 1%;
+    height: 200px;
+    opacity: .8;
+}
+
+.three {
+    background-color: #CD0775;
+    width: 30%;
+    border-color: black;
+    padding: 1%;
+    height: 200px;
+    opacity: .8;
+}
+.newButton {
+    background-color: darkgreen;
+}
+
+.oldButton {
+    background-color: lightgreen;
+}
